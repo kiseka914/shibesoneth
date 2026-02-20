@@ -19849,7 +19849,7 @@ function NT() {
                         v.jsx("span", {
                           className: "code",
                           children:
-                            "0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+                            "0xb06c5E5B554C3195FaeB23Dfe3536ff5e4E6A1C5",
                         }),
                       ],
                     }),
