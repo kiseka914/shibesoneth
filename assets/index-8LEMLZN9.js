@@ -20362,7 +20362,7 @@ function NT() {
                     }),
                     v.jsx("p", {
                       children:
-                        "No taxes. Liquidity burned. Contract renounced. Pure decentralized meme energy.",
+                        "No taxes. Liquidity locked. Contract renounced. Pure decentralized meme energy.",
                     }),
                     v.jsxs("div", {
                       className: "tokenomics-grid",
@@ -20410,7 +20410,7 @@ function NT() {
                             }),
                             v.jsx("div", {
                               className: "value",
-                              children: "Burned",
+                              children: "Locked",
                             }),
                             v.jsx("div", {
                               className: "note",
