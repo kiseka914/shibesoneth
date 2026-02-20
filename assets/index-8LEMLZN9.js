@@ -19729,7 +19729,7 @@ function NT() {
                 className: "nav-links",
                 children: v.jsx("button", {
                   className: "btn-primary",
-                  onClick: () => c("how-to-buy"),
+                  onClick: () => window.location.href = "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xb06c5e5b554c3195faeb23dfe3536ff5e4e6a1c5",
                   children: "Buy $SHIBES",
                 }),
               }),
